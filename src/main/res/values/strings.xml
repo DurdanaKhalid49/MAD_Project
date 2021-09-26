@@ -1,0 +1,18 @@
+<resources>
+    <!--All the string resources come here including Questions and title -->
+    <string name="app_name">Android Quiz For Beginners</string>
+    <string name="correct"><b>YOU DID</b> \n
+                           <b>%1$d</b>CORRECT OUT OF 6</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">An Intent is used to connect one activity to another activity</string>
+    <string name="b">  Is android a web Broweser</string>
+    <string name="c"> Android is mainly developed for Mobile</string>
+    <string name="d">Is Dalvik Virtual Machine (DVM) is an android virtual machine</string>
+    <string name="e">Is Java language is mainly used to write the android code</string>
+    <string name="f">An APK is a short form of the Application programming Kit</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+</resources>
